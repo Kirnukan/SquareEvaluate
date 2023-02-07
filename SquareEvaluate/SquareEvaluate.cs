@@ -57,10 +57,10 @@
     /*
      Examples of using this library:
         Circle circle = new Circle(5);
-        double circleArea = ShapeAreaCalculator.Calculate(circle);
+        double circleArea = ShapeAreaCalculator.Evaluate(circle);
     
         Triangle triangle = new Triangle(3, 4, 5);
-        double triangleArea = ShapeAreaCalculator.Calculate(triangle);
+        double triangleArea = ShapeAreaCalculator.Evaluate(triangle);
         
         Triangle triangle = new Triangle(3, 4, 5);
         bool isRightTriangle = triangle.IsRightTriangle();
